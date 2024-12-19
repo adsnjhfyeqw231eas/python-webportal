@@ -9,8 +9,8 @@ all other htmls are kept random texts for early texting as of now.
 install a Linux on WSL: run a docker ubuntu 24/22 inside it
 inside docker: do git clone this project and do the following.
 Install python3 and  python3-pip 
-# python3-pip install flask
-# python3 app.py
+then run command 1: python3-pip install flask
+then run command 2: python3 app.py
 Note: all html folders must be inside templates/ folder, I am not sure about css/images folders placements.
 python flask's home.html is the replacement for php's index.html.
 
